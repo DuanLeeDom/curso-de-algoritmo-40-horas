@@ -10,11 +10,11 @@ Atualmente, estou fazendo o curso em vídeo **"Algoritmo [40 Horas]"**. Abaixo, 
 
 Para praticar, você pode usar o VisualG, uma ferramenta útil para aprender algoritmos. O VisualG está disponível na seção **Releases** sob o nome **"VisualG: Ferramenta para Aprender Algoritmos"**.
 
-- [VisualG: Ferramenta para Aprender Algoritmos](link_para_releases) - Baixe e use o VisualG para praticar o que aprendeu.
+- [VisualG: Ferramenta para Aprender Algoritmos](https://github.com/DuanLeeDom/curso-de-algoritmo-40-horas/releases/tag/exe) - Baixe e use o VisualG para praticar o que aprendeu.
 
 ## Status do Curso
 
-- [ ] **Fazendo o Curso** - Marque quando iniciar
-- [x] **Curso Concluído** - Marque quando finalizar
+- [ ] **Fazendo o Curso**
+- [x] **Curso Concluído**
 
-Siga os links para acessar o material e o VisualG. Bons estudos!
+Siga os links para acessar o material e o VisualG.
