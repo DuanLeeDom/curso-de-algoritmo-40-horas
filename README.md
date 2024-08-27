@@ -14,5 +14,3 @@ Para praticar, você pode usar o VisualG, uma ferramenta útil para aprender alg
 
 - [ ] **Fazendo o Curso**
 - [x] **Curso Concluído**
-
-Siga os links para acessar o material e o VisualG.
