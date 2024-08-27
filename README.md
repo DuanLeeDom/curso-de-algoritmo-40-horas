@@ -1,7 +1,5 @@
 # Aprendizado de Algoritmo
 
-Atualmente, estou fazendo o curso em vídeo **"Algoritmo [40 Horas]"**. Abaixo, você encontrará o material do curso e a lista de exercícios. 
-
 ## Material do Curso
 
 - [Material do Curso] - Encontre o material e a lista de exercícios acima.
