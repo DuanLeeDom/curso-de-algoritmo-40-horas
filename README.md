@@ -33,6 +33,43 @@ Para praticar os conceitos aprendidos, o curso utiliza o **VisualG**, uma ferram
 3. Execute o programa clicando em "Executar" para testar a lógica.  
 4. Use a funcionalidade de depuração para acompanhar a execução passo a passo e corrigir erros.
 
+## Conteúdo do Curso
+
+O curso é estruturado em aulas teóricas e práticas, cobrindo os fundamentos da lógica de programação e algoritmos. Abaixo está o conteúdo abordado:
+
+- **Aula 1 – Introdução a Algoritmos**  
+  Conceitos básicos sobre algoritmos e sua importância na programação.  
+- **Conteúdo para o Curso de Algoritmo**  
+  Material complementar e preparação para as próximas aulas.  
+- **Aula 2 – Primeiro Algoritmo**  
+  Criação e execução do primeiro algoritmo simples no VisualG.  
+- **Aula 3 – Comando de Entrada e Operadores**  
+  Uso de comandos de entrada (`leia`) e operadores aritméticos.  
+- **Aula 4 – Operadores Lógicos e Relacionais**  
+  Introdução a operadores lógicos (`e`, `ou`, `não`) e relacionais (`>`, `<`, `=`).  
+- **Aula 5 – Introdução ao Scratch**  
+  Exploração básica do Scratch como ferramenta alternativa para visualização de algoritmos.  
+- **Aula 6 – Exercícios de Algoritmo Resolvidos**  
+  Resolução prática de exercícios para consolidar o aprendizado.  
+- **Aula 7 – Estruturas Condicionais 1**  
+  Uso de `se` e `senão` para decisões simples.  
+- **Aula 8 – Estruturas Condicionais 2**  
+  Condições aninhadas e múltiplas escolhas.  
+- **Aula 9 – Estruturas de Repetição 1**  
+  Introdução ao laço `enquanto` para repetições.  
+- **Aula 10 – Estruturas de Repetição 2**  
+  Uso do laço `para` e suas aplicações.  
+- **Aula 11 – Estruturas de Repetição 3**  
+  Combinação de laços e condições para problemas complexos.  
+- **Aula 12 – Procedimentos**  
+  Criação de blocos reutilizáveis com procedimentos.  
+- **Aula 13 – Funções**  
+  Diferença entre procedimentos e funções, com retorno de valores.  
+- **Aula 14 – Vetores**  
+  Armazenamento e manipulação de listas de dados.  
+- **Aula 15 – Matrizes**  
+  Trabalhando com tabelas bidimensionais e suas aplicações.
+
 ## Status do Curso
 
 - [ ] **Fazendo o Curso**  
